@@ -1,0 +1,47 @@
+.one
+{
+	width: 30%;
+	float: left;
+	margin-left: 1%;
+	background-color: lightblue;
+	padding: 15px;
+}
+
+.two
+{
+	width: 30%;
+	float: left;
+	margin-left: 1%;
+	background-color: red;
+	color: #fff;
+	padding: 15px;
+}
+
+.three
+{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    background-color: yellow;
+    padding: 15px;
+}
+
+.four
+{
+	width: 30%;
+	float: right;
+	margin-left: 1%;
+	background-color: lightgreen;
+	padding: 15px;
+	margin-top: 1%;
+}
+
+.five
+{
+	width: 30%;
+	float: right;
+	margin-left: 1%;
+	background-color: violet;
+	color: #fff;
+	padding: 15px;
+	margin-top: 1%;
